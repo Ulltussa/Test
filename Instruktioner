@@ -12,6 +12,8 @@ kommandtolken
 
 >git add . <- addar allt
 
+>git commit -m "Meddelande"
+
 Vs 
 
 Git flik
